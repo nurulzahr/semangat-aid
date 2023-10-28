@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: #03524e;
 }
 .greetings{
     font-size: 6rem;
@@ -22,7 +22,7 @@ body{
 @keyframes glow{
     0%, 100%{
         color: #fff;
-        text-shadow: 0 0 12px #39c6d6, 0 0 50px #39c6d6, 0 0 100px #39c6d6;
+        text-shadow: 0 0 12px #da3619, 0 0 50px #da3619, 0 0 100px #da3619;
     }
     10%, 90%{
         color: #111;
@@ -62,7 +62,7 @@ body{
 .button a{
     text-decoration: none;
     font-size: 1rem;
-    color: #111;
+    color: #551515;
 }
 
 @media screen and (max-width:574px){
